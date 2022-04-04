@@ -3,7 +3,7 @@
 ### CONTACTS
 * ***Email:*** dolgaya.nastya@gmail.com
 * ***Phone:*** +375 29 595 31 46
-* ***Telegram:*** @a.halmamatova
+* ***Telegram:*** @a_halmamatova
 
 ### ABOUT ME
 ![photo](photo.png "photo.png") 
