@@ -6,7 +6,6 @@
 * ***Telegram:*** @a_halmamatova
 
 ### ABOUT ME
-![photo](photo.png "photo.png") 
 
 After studying at the university, I worked for more than 2 years as a designer in an interior door company. Quit, started self-development and training in RSS.
 I believe that creative and technical thinking will help me evolve as a specialist in this sphere.
